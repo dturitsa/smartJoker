@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartJoker</string>
+    <string name="rateDownBut">-1</string>
+    <string name="rateNeutralBut">0</string>
+    <string name="rateUpBut">+1</string>
+    <string name="title_activity_create_joke">CreateJoke</string>
+</resources>
